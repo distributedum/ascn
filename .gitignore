@@ -1,0 +1,10 @@
+_site
+run.sh
+Gemfile*
+.bundle
+
+# Trunk
+.trunk/
+trunk.yaml
+
+*.DS_Store

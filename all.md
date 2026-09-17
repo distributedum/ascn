@@ -43,21 +43,21 @@ The grade has two components:
 | Exam (resit) | 25/01/27 |
 
 ### Lectures & Labs
-
 | Week | Date | Lecture | Lab | Read |
 |:----:|:----:|:--------|:----|:----:|
-| 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B1; B2 |
-| 2 | 28/09/26 | Distributed Applications | Lab 1: Case-study Application | B2; P1 |
+| 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2025_2026/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2025_2026/materials/Guide0.pdf) · [Slides](editions/2025_2026/materials/Guide0-slides.pdf) · [Code](editions/2025_2026/materials/guide0.zip) ] | B1; B2 |
+| 2 | 28/09/26 | Distributed Applications<br>[ [Slides](editions/2025_2026/materials/2%20-%20Distributed%20Applications.pdf) ] | Lab 1: Case-study Application<br>[ [Guide](editions/2025_2026/materials/Guide1.pdf) · [Slides](editions/2025_2026/materials/Guide1-slides.pdf) ] | B2; P1 |
 | — | 05/10/26 | *(holiday)* | *(holiday)* | |
-| 3 | 12/10/26 | System Provisioning | Lab 2: Containers | B1 |
-| 4 | 19/10/26 | Cloud Computing | Lab 2: Containers (cont.) | B3; P2 |
-| 5 | 26/10/26 | Virtualization Part I — VMs | Lab 2: Containers + Provisioning (cont.) | B4; P3 |
-| 6 | 02/11/26 | Virtualization Part II — Containers + K8s | Lab 3: Kubernetes | B1; B4; B5 |
-| 7 | 09/11/26 | Storage | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
+| 3 | 12/10/26 | System Provisioning<br>[ [Slides](editions/2025_2026/materials/3%20-%20System%20Provisioning.pdf) ] | Lab 2: Containers<br>[ [Guide](editions/2025_2026/materials/Guide2.pdf) · [Slides](editions/2025_2026/materials/Guide2-slides.pdf) · [Code](editions/2025_2026/materials/guide2.zip) ] | B1 |
+| 4 | 19/10/26 | Cloud Computing<br>[ [Slides](editions/2025_2026/materials/4%20-%20Cloud%20Computing.pdf) ] | Lab 2: Containers (cont.) | B3; P2 |
+| 5 | 26/10/26 | Virtualization Part I — VMs<br>[ [Slides](editions/2025_2026/materials/5%20-%20Virtualization%20Part%201%20-%20VMs.pdf) ] | Lab 2: Containers + Provisioning (cont.) | B4; P3 |
+| 6 | 02/11/26 | Virtualization Part II — Containers + K8s<br>[ [Slides](editions/2025_2026/materials/6%20-%20Virtualization%20Part%202%20-%20Containers.pdf) ] | Lab 3: Kubernetes<br>[ [Guide](editions/2025_2026/materials/Guide3.pdf) · [Slides](editions/2025_2026/materials/Guide3-slides.pdf) · [Code](editions/2025_2026/materials/guide3.zip) ] | B1; B4; B5 |
+| 7 | 09/11/26 | Storage<br>[ [Slides](editions/2025_2026/materials/7%20-%20Storage.pdf) ] | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
-| 9 | 23/11/26 | Monitoring | Lab 4: Monitoring | B6; P7; P8 |
-| 10 | 30/11/26 | Benchmarking | Lab 5: Benchmarking | B6; P9; P10 |
+| 9 | 23/11/26 | Monitoring<br>[ [Slides](editions/2025_2026/materials/8%20-%20Monitoring.pdf) ] | Lab 4: Monitoring<br>[ [Guide](editions/2025_2026/materials/Guide4.pdf) · [Slides](editions/2025_2026/materials/Guide4-slides.pdf) · [Code](editions/2025_2026/materials/guide4.zip) ] | B6; P7; P8 |
+| 10 | 30/11/26 | Benchmarking<br>[ [Slides](editions/2025_2026/materials/9%20-%20Benchmarking.pdf) ] | Lab 5: Benchmarking<br>[ [Guide](editions/2025_2026/materials/Guide5.pdf) · [Slides](editions/2025_2026/materials/Guide5-slides.pdf) ] | B6; P9; P10 |
 | 11 | 07/12/26 | Q&A | Q&A / Project | |
+
 
 ## Bibliography
 
