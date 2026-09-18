@@ -6,10 +6,13 @@ This course covers both foundational and cutting-edge cloud technologies, from i
 
 ## Learning outcomes
 
-- Understand the main challenges of deploying and operating complex distributed applications in cloud environments.
-- Apply infrastructure-as-code tools and techniques to provision, configure, and manage cloud systems in a reproducible and automated fashion.
-- Deploy and manage containerized applications using orchestration platforms such as Docker and Kubernetes.
-- Monitor and benchmark cloud applications to analyze performance, detect anomalies, and support informed operational decisions.
+- Understand the internal organization and management of Cloud Computing infrastructure and services.
+- Understand the concepts of scalability, dependability and security for distributed applications and services.
+- Acquire expertise on virtualization technologies, for example virtual machines, containers, and Kubernetes.
+- Acquire knowledge about large-scale distributed data management (e.g., file systems, object storage systems), while focusing on key features for efficient storage and protection of critical data.
+- Perform application setup and installation in a distributed environment, while considering key properties such as performance, dependability and security.
+- Implement distributed applications monitoring and evaluation in the cloud.
+- Measure the performance of distributed cloud applications.
 
 ## Instructors
 
@@ -26,9 +29,9 @@ The grade has two components:
 
 - **Group project and discussion (50%)**
     - In groups of 5 students
-    - Minimum grade of 10/20
+    - Minimum grade of 10 values out of 20
 - **Written exam (50%)**
-    - Minimum grade of 8/20.
+    - Minimum grade of 8 values out of 20
 
 ## Schedule
 
@@ -40,7 +43,6 @@ The grade has two components:
 | Project submission deadline | 30/12/26 |
 | Exam (test) | 04/01/27 |
 | Project discussion | 11–16/01/27 |
-| Exam (resit) | 25/01/27 |
 
 ### Lectures & Labs
 
