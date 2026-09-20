@@ -1,4 +1,4 @@
-# 2025/2026
+# 2026/2027
 
 A course on cloud computing applications and services addressing the challenges of deploying, provisioning, and operating complex distributed applications at scale. Modern cloud-native systems (from microservices and container orchestration to distributed storage and observability pipelines) demand a solid understanding of the tools and techniques that make them reliable, manageable, and performant.
 
@@ -36,6 +36,7 @@ The grade has two components:
 ## Schedule
 
 ### Key dates
+
 | Milestone | Date |
 |:----------|:----:|
 | Checkpoint #1 | 08/11/26 |
