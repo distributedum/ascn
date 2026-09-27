@@ -50,7 +50,7 @@ The grade has two components:
 | Week | Date | Lecture | Lab | Read |
 |:----:|:----:|:--------|:----|:----:|
 | 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B1; B2 |
-| 2 | 28/09/26 | Distributed Applications | Lab 1: Case-study Application | B2; P1 |
+| 2 | 28/09/26 | Distributed Applications <br>[ [Slides](editions/2026_2027/materials/2%20-%20Distributed%20Applications.pdf) ] | Lab 1: Case-study Application | B2; P1 |
 | — | 05/10/26 | *(holiday)* | *(holiday)* | |
 | 3 | 12/10/26 | System Provisioning | Lab 2: Containers | B1 |
 | 4 | 19/10/26 | Cloud Computing | Lab 2: Containers (cont.) | B3; P2 |
