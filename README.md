@@ -49,7 +49,7 @@ The grade has two components:
 
 | Week | Date | Lecture | Lab | Read |
 |:----:|:----:|:--------|:----|:----:|
-| 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B1; B2 |
+| 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B0; B1; B2 |
 | 2 | 28/09/26 | Distributed Applications <br>[ [Slides](editions/2026_2027/materials/2%20-%20Distributed%20Applications.pdf) ] | Lab 1: Case-study Application <br>[ [Guide](editions/2026_2027/materials/Guide1.pdf) · [Slides](editions/2026_2027/materials/Guide1-slides.pdf) ] | B2; P1 |
 | — | 05/10/26 | *(holiday)* | *(holiday)* | |
 | 3 | 12/10/26 | System Provisioning | Lab 2: Containers | B1 |
@@ -66,6 +66,7 @@ The grade has two components:
 
 | # | Title |
 |:-:|-------|
+| B0 | J. O. Pereira, *[Introdução ao Unix](editions/2026_2027/materials/bashintro.pdf)*. |
 | B1 | K. Morris. *[Infrastructure as Code: Managing Servers in the Cloud](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)*. O'Reilly, 2016. |
 | B2 | M. Kleppmann. *[Designing Data-Intensive Applications](https://dataintensive.net/)*. O'Reilly, 2017. |
 | B3 | T. Erl, R. Puttini, and Z. Mahmood. *Cloud Computing: Concepts, Technology and Architecture*. Prentice Hall, 2013. |
