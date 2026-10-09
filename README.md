@@ -30,6 +30,7 @@ The grade has two components:
 - **Group project and discussion (50%)**
     - In groups of 5 students
     - Minimum grade of 10 values out of 20
+    - Project Assignment is now available in [Portuguese](editions/2026_2027/materials/TP.pdf) and [English](editions/2026_2027/materials/PA.pdf)! 
 - **Written exam (50%)**
     - Minimum grade of 8 values out of 20
 
