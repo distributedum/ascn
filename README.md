@@ -66,7 +66,7 @@ The grade has two components:
 
 | # | Title |
 |:-:|-------|
-| B0 | J. O. Pereira, *[Introdução ao Unix](editions/2026_2027/materials/bashintro.pdf)*. |
+| B0 | J. O. Pereira. *[Introdução ao Unix](editions/2026_2027/materials/bashintro.pdf)*. |
 | B1 | K. Morris. *[Infrastructure as Code: Managing Servers in the Cloud](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)*. O'Reilly, 2016. |
 | B2 | M. Kleppmann. *[Designing Data-Intensive Applications](https://dataintensive.net/)*. O'Reilly, 2017. |
 | B3 | T. Erl, R. Puttini, and Z. Mahmood. *Cloud Computing: Concepts, Technology and Architecture*. Prentice Hall, 2013. |
