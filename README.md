@@ -52,7 +52,7 @@ The grade has two components:
 | 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B1; B2 |
 | 2 | 28/09/26 | Distributed Applications <br>[ [Slides](editions/2026_2027/materials/2%20-%20Distributed%20Applications.pdf) ] | Lab 1: Case-study Application <br>[ [Guide](editions/2026_2027/materials/Guide1.pdf) · [Slides](editions/2026_2027/materials/Guide1-slides.pdf) ] | B2; P1 |
 | — | 05/10/26 | *(holiday)* | *(holiday)* | |
-| 3 | 12/10/26 | System Provisioning | Lab 2: Containers | B1 |
+| 3 | 12/10/26 | System Provisioning<br>[ [Slides](editions/2026_2027/materials/3%20-%20System%20Provisioning.pdf) ] | Lab 2: Containers | B1 |
 | 4 | 19/10/26 | Cloud Computing | Lab 2: Containers (cont.) | B3; P2 |
 | 5 | 26/10/26 | Virtualization Part I — VMs | Lab 2: Containers + Provisioning (cont.) | B4; P3 |
 | 6 | 02/11/26 | Virtualization Part II — Containers + K8s | Lab 3: Kubernetes | B1; B4; B5 |
