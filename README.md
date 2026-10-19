@@ -55,7 +55,7 @@ The grade has two components:
 | — | 05/10/26 | *(holiday)* | *(holiday)* | |
 | 3 | 12/10/26 | System Provisioning<br>[ [Slides](editions/2026_2027/materials/3%20-%20System%20Provisioning.pdf) ] | Lab 2: Containers<br>[ [Guide](editions/2026_2027/materials/Guide2.pdf) · [Slides](editions/2026_2027/materials/Guide2-slides.pdf) ]| B1 |
 | 4 | 19/10/26 | Cloud Computing<br>[ [Slides](editions/2026_2027/materials/4%20-%20Cloud%20Computing.pdf) ] | Lab 2: Containers (cont.) | B3; P2 |
-| 5 | 26/10/26 | Virtualization Part I — VMs | Lab 2: Containers + Provisioning (cont.) | B4; P3 |
+| 5 | 26/10/26 | Virtualization Part I — VMs | Lab 2: Containers + Provisioning (cont.) <br> [ [Code](editions/2026_2027/materials/guide2.zip) ] | B4; P3 |
 | 6 | 02/11/26 | Virtualization Part II — Containers + K8s | Lab 3: Kubernetes | B1; B4; B5 |
 | 7 | 09/11/26 | Storage | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
