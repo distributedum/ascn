@@ -28,61 +28,61 @@ This course covers both foundational and cutting-edge cloud technologies, from i
 The grade has two components:
 
 - **Group project and discussion (50%)**
-    - In groups of 5 students
-    - Minimum grade of 10 values out of 20
-    - Project Assignment is now available in [Portuguese](editions/2026_2027/materials/TP.pdf) and [English](editions/2026_2027/materials/PA.pdf)!
+  - In groups of 5 students
+  - Minimum grade of 10 values out of 20
+  - Project Assignment is now available in [Portuguese](editions/2026_2027/materials/TP.pdf) and [English](editions/2026_2027/materials/PA.pdf)!
 - **Written exam (50%)**
-    - Minimum grade of 8 values out of 20
+  - Minimum grade of 8 values out of 20
 
 ## Schedule
 
 ### Key dates
 
-| Milestone | Date |
-|:----------|:----:|
-| Checkpoint #1 | 08/11/26 |
-| Checkpoint #2 | 06/12/26 |
-| Project submission deadline | 30/12/26 |
-| Exam (test) | 04/01/27 |
-| Project discussion | 11–16/01/27 |
+| Milestone                   |    Date     |
+| :-------------------------- | :---------: |
+| Checkpoint #1               |  08/11/26   |
+| Checkpoint #2               |  06/12/26   |
+| Project submission deadline |  30/12/26   |
+| Exam (test)                 |  04/01/27   |
+| Project discussion          | 11–16/01/27 |
 
 ### Lectures & Labs
 
-| Week | Date | Lecture | Lab | Read |
-|:----:|:----:|:--------|:----|:----:|
-| 1 | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ] | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B0; B1; B2 |
-| 2 | 28/09/26 | Distributed Applications <br>[ [Slides](editions/2026_2027/materials/2%20-%20Distributed%20Applications.pdf) ] | Lab 1: Case-study Application <br>[ [Guide](editions/2026_2027/materials/Guide1.pdf) · [Slides](editions/2026_2027/materials/Guide1-slides.pdf) ] | B2; P1 |
-| — | 05/10/26 | *(holiday)* | *(holiday)* | |
-| 3 | 12/10/26 | System Provisioning<br>[ [Slides](editions/2026_2027/materials/3%20-%20System%20Provisioning.pdf) ] | Lab 2: Containers<br>[ [Guide](editions/2026_2027/materials/Guide2.pdf) · [Slides](editions/2026_2027/materials/Guide2-slides.pdf) ]| B1 |
-| 4 | 19/10/26 | Cloud Computing<br>[ [Slides](editions/2026_2027/materials/4%20-%20Cloud%20Computing.pdf) ] | Lab 2: Containers (cont.)<br>[ [Solutions](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQCVQy0UV0SKTo6K-br-RePwAa_gIEq6G4Mw20aIT6Lprf4?e=NQIqWL) ] | B3; P2 |
-| 5 | 26/10/26 | Virtualization Part I — VMs<br>[ [Slides](editions/2026_2027/materials/5%20-%20Virtualization%20Part%201%20-%20VMs.pdf) ] | Lab 2: Containers + Provisioning (cont.) <br> [ [Code](editions/2026_2027/materials/guide2.zip) . [Solutions](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQAuACMzmwzXQ4adkyHqevlWAc9eVDyi6WVHCH9Zo9N7Wy0?e=3Z75bX) ] | B4; P3 |
-| 6 | 02/11/26 | Virtualization Part II — Containers + K8s<br>[ [Slides](editions/2026_2027/materials/6%20-%20Virtualization%20Part%202%20-%20Containers.pdf) ] | Lab 3: Kubernetes | B1; B4; B5 |
-| 7 | 09/11/26 | Storage | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
-| 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
-| 9 | 23/11/26 | Monitoring | Lab 4: Monitoring | B6; P7; P8 |
-| 10 | 30/11/26 | Benchmarking | Lab 5: Benchmarking | B6; P9; P10 |
-| 11 | 07/12/26 | Q&A | Q&A / Project | |
+| Week |   Date   | Lecture                                                                                                                                        | Lab                                                                                                                                                                                            |    Read     |
+| :--: | :------: | :--------------------------------------------------------------------------------------------------------------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | :---------: |
+|  1   | 21/09/26 | Introduction<br>[ [Slides](editions/2026_2027/materials/1%20-%20Introduction.pdf) ]                                                            | Lab 0: Vagrant/VMs + Bash<br>[ [Guide](editions/2026_2027/materials/Guide0.pdf) · [Slides](editions/2026_2027/materials/Guide0-slides.pdf) · [Code](editions/2026_2027/materials/guide0.zip) ] | B0; B1; B2  |
+|  2   | 28/09/26 | Distributed Applications <br>[ [Slides](editions/2026_2027/materials/2%20-%20Distributed%20Applications.pdf) ]                                 | Lab 1: Case-study Application <br>[ [Guide](editions/2026_2027/materials/Guide1.pdf) · [Slides](editions/2026_2027/materials/Guide1-slides.pdf) ]                                              |   B2; P1    |
+|  —   | 05/10/26 | _(holiday)_                                                                                                                                    | _(holiday)_                                                                                                                                                                                    |             |
+|  3   | 12/10/26 | System Provisioning<br>[ [Slides](editions/2026_2027/materials/3%20-%20System%20Provisioning.pdf) ]                                            | Lab 2: Containers<br>[ [Guide](editions/2026_2027/materials/Guide2.pdf) · [Slides](editions/2026_2027/materials/Guide2-slides.pdf) ]                                                           |     B1      |
+|  4   | 19/10/26 | Cloud Computing<br>[ [Slides](editions/2026_2027/materials/4%20-%20Cloud%20Computing.pdf) ]                                                    | Lab 2: Containers (cont.)<br>[ [Solutions](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQCVQy0UV0SKTo6K-br-RePwAa_gIEq6G4Mw20aIT6Lprf4?e=NQIqWL) ]                     |   B3; P2    |
+|  5   | 26/10/26 | Virtualization Part I — VMs<br>[ [Slides](editions/2026_2027/materials/5%20-%20Virtualization%20Part%201%20-%20VMs.pdf) ]                      | Lab 2: Containers + Provisioning (cont.) <br> [ [Code](editions/2026_2027/materials/guide2.zip) ]                                                                                              |   B4; P3    |
+|  6   | 02/11/26 | Virtualization Part II — Containers + K8s<br>[ [Slides](editions/2026_2027/materials/6%20-%20Virtualization%20Part%202%20-%20Containers.pdf) ] | Lab 3: Kubernetes <br>[ [Guide](editions/2026_2027/materials/Guide3.pdf) · [Slides](editions/2026_2027/materials/Guide3-slides.pdf) · [Code](editions/2026_2027/materials/guide3.zip) ]        | B1; B4; B5  |
+|  7   | 09/11/26 | Storage                                                                                                                                        | Lab 3: Kubernetes (cont.)                                                                                                                                                                      | P4; P5; P6  |
+|  8   | 16/11/26 | Storage (cont.)                                                                                                                                | Q&A / Project                                                                                                                                                                                  | P4; P5; P6  |
+|  9   | 23/11/26 | Monitoring                                                                                                                                     | Lab 4: Monitoring                                                                                                                                                                              | B6; P7; P8  |
+|  10  | 30/11/26 | Benchmarking                                                                                                                                   | Lab 5: Benchmarking                                                                                                                                                                            | B6; P9; P10 |
+|  11  | 07/12/26 | Q&A                                                                                                                                            | Q&A / Project                                                                                                                                                                                  |             |
 
 ## Bibliography
 
-| # | Title |
-|:-:|-------|
-| B0 | J. O. Pereira. *[Introdução ao Unix](editions/2026_2027/materials/bashintro.pdf)*. |
-| B1 | K. Morris. *[Infrastructure as Code: Managing Servers in the Cloud](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)*. O'Reilly, 2016. |
-| B2 | M. Kleppmann. *[Designing Data-Intensive Applications](https://dataintensive.net/)*. O'Reilly, 2017. |
-| B3 | T. Erl, R. Puttini, and Z. Mahmood. *Cloud Computing: Concepts, Technology and Architecture*. Prentice Hall, 2013. |
-| B4 | S. Alapati. *Modern Linux Administration: How to Become a Cutting-edge Linux Administrator*. O'Reilly, 2016. |
-| B5 | B. Burns. *[Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/)* (Second Edition). O'Reilly, 2019. |
-| B6 | R. Jain. *The Art of Computer Systems Performance Analysis*. Wiley, 1991. |
-| P1 | C. Tang et al. *[Holistic Configuration Management at Facebook](https://doi.org/10.1145/2815400.2815401)*. SOSP, 2015. |
-| P2 | M. Armbrust et al. *[A View of Cloud Computing](https://doi.org/10.1145/1721654.1721672)*. Communications of the ACM, 2010. |
-| P3 | P. Barham et al. *[Xen and the Art of Virtualization](https://doi.org/10.1145/945445.945462)*. SOSP, 2003. |
-| P4 | R. Macedo, J. Paulo, J. Pereira, and A. Bessani. *[A Survey and Classification of Software-Defined Storage Systems](https://doi.org/10.1145/3385896)*. ACM Computing Surveys, 2020. |
-| P5 | J. Paulo and J. Pereira. *[A Survey and Classification of Storage Deduplication Systems](https://doi.org/10.1145/2611778)*. ACM Computing Surveys, 2014. |
-| P6 | S. A. Weil et al. *[Ceph: A Scalable, High-Performance Distributed File System](https://dl.acm.org/doi/10.5555/1298455.1298485)*. OSDI, 2006. |
-| P7 | T. Esteves, F. Neves, R. Oliveira, and J. Paulo. *[CaT: Content-aware Tracing and Analysis for Distributed Systems](https://doi.org/10.1145/3464298.3493396)*. ACM/IFIP Middleware, 2021. |
-| P8 | T. Esteves, R. Macedo, R. Oliveira, and J. Paulo. *[Toward a Practical and Timely Diagnosis of Applications' I/O Behavior](https://doi.org/10.1109/ACCESS.2023.3322104)*. IEEE Access, 2023. |
-| P9 | F. Coelho, J. Paulo, R. Vilaça, J. Pereira, and R. Oliveira. *[HTAPBench: Hybrid Transactional and Analytical Processing Benchmark](https://doi.org/10.1145/3030207.3030228)*. ICPE, 2017. |
-| P10 | B. K. Vangoor, V. Tarasov, and E. Zadok. *[To FUSE or Not to FUSE: Performance of User-Space File Systems](https://www.usenix.org/conference/fast17/technical-sessions/presentation/vangoor)*. USENIX FAST, 2017. |
+|  #  | Title                                                                                                                                                                                                             |
+| :-: | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| B0  | J. O. Pereira. _[Introdução ao Unix](editions/2026_2027/materials/bashintro.pdf)_.                                                                                                                                |
+| B1  | K. Morris. _[Infrastructure as Code: Managing Servers in the Cloud](https://www.oreilly.com/library/view/infrastructure-as-code/9781491924334/)_. O'Reilly, 2016.                                                 |
+| B2  | M. Kleppmann. _[Designing Data-Intensive Applications](https://dataintensive.net/)_. O'Reilly, 2017.                                                                                                              |
+| B3  | T. Erl, R. Puttini, and Z. Mahmood. _Cloud Computing: Concepts, Technology and Architecture_. Prentice Hall, 2013.                                                                                                |
+| B4  | S. Alapati. _Modern Linux Administration: How to Become a Cutting-edge Linux Administrator_. O'Reilly, 2016.                                                                                                      |
+| B5  | B. Burns. _[Kubernetes Up & Running](https://www.oreilly.com/library/view/kubernetes-up-and/9781492046523/)_ (Second Edition). O'Reilly, 2019.                                                                    |
+| B6  | R. Jain. _The Art of Computer Systems Performance Analysis_. Wiley, 1991.                                                                                                                                         |
+| P1  | C. Tang et al. _[Holistic Configuration Management at Facebook](https://doi.org/10.1145/2815400.2815401)_. SOSP, 2015.                                                                                            |
+| P2  | M. Armbrust et al. _[A View of Cloud Computing](https://doi.org/10.1145/1721654.1721672)_. Communications of the ACM, 2010.                                                                                       |
+| P3  | P. Barham et al. _[Xen and the Art of Virtualization](https://doi.org/10.1145/945445.945462)_. SOSP, 2003.                                                                                                        |
+| P4  | R. Macedo, J. Paulo, J. Pereira, and A. Bessani. _[A Survey and Classification of Software-Defined Storage Systems](https://doi.org/10.1145/3385896)_. ACM Computing Surveys, 2020.                               |
+| P5  | J. Paulo and J. Pereira. _[A Survey and Classification of Storage Deduplication Systems](https://doi.org/10.1145/2611778)_. ACM Computing Surveys, 2014.                                                          |
+| P6  | S. A. Weil et al. _[Ceph: A Scalable, High-Performance Distributed File System](https://dl.acm.org/doi/10.5555/1298455.1298485)_. OSDI, 2006.                                                                     |
+| P7  | T. Esteves, F. Neves, R. Oliveira, and J. Paulo. _[CaT: Content-aware Tracing and Analysis for Distributed Systems](https://doi.org/10.1145/3464298.3493396)_. ACM/IFIP Middleware, 2021.                         |
+| P8  | T. Esteves, R. Macedo, R. Oliveira, and J. Paulo. _[Toward a Practical and Timely Diagnosis of Applications' I/O Behavior](https://doi.org/10.1109/ACCESS.2023.3322104)_. IEEE Access, 2023.                      |
+| P9  | F. Coelho, J. Paulo, R. Vilaça, J. Pereira, and R. Oliveira. _[HTAPBench: Hybrid Transactional and Analytical Processing Benchmark](https://doi.org/10.1145/3030207.3030228)_. ICPE, 2017.                        |
+| P10 | B. K. Vangoor, V. Tarasov, and E. Zadok. _[To FUSE or Not to FUSE: Performance of User-Space File Systems](https://www.usenix.org/conference/fast17/technical-sessions/presentation/vangoor)_. USENIX FAST, 2017. |
 
 **Legend:** B — Book; P — Paper
