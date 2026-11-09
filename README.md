@@ -57,7 +57,7 @@ The grade has two components:
 | 4 | 19/10/26 | Cloud Computing<br>[ [Slides](editions/2026_2027/materials/4%20-%20Cloud%20Computing.pdf) ] | Lab 2: Containers (cont.)<br>[ [Solutions](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQCVQy0UV0SKTo6K-br-RePwAa_gIEq6G4Mw20aIT6Lprf4?e=NQIqWL) ] | B3; P2 |
 | 5 | 26/10/26 | Virtualization Part I — VMs<br>[ [Slides](editions/2026_2027/materials/5%20-%20Virtualization%20Part%201%20-%20VMs.pdf) ] | Lab 2: Containers + Provisioning (cont.) <br> [ [Code](editions/2026_2027/materials/guide2.zip) · [Solutions](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQAuACMzmwzXQ4adkyHqevlWAc9eVDyi6WVHCH9Zo9N7Wy0?e=3Z75bX) ] | B4; P3 |
 | 6 | 02/11/26 | Virtualization Part II — Containers + K8s<br>[ [Slides](editions/2026_2027/materials/6%20-%20Virtualization%20Part%202%20-%20Containers.pdf) ] | Lab 3: Kubernetes <br>[ [Guide](editions/2026_2027/materials/Guide3.pdf) · [Slides](editions/2026_2027/materials/Guide3-slides.pdf) · [Code](editions/2026_2027/materials/guide3.zip) ]| B1; B4; B5 |
-| 7 | 09/11/26 | Storage | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
+| 7 | 09/11/26 | Storage<br>[ [Slides](editions/2026_2027/materials/7%20-%20Storage.pdf) ] | Lab 3: Kubernetes (cont.) | P4; P5; P6 |
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
 | 9 | 23/11/26 | Monitoring | Lab 4: Monitoring | B6; P7; P8 |
 | 10 | 30/11/26 | Benchmarking | Lab 5: Benchmarking | B6; P9; P10 |
