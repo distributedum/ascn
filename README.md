@@ -59,7 +59,7 @@ The grade has two components:
 | 6 | 02/11/26 | Virtualization Part II — Containers + K8s<br>[ [Slides](editions/2026_2027/materials/6%20-%20Virtualization%20Part%202%20-%20Containers.pdf) ] | Lab 3: Kubernetes <br>[ [Guide](editions/2026_2027/materials/Guide3.pdf) · [Slides](editions/2026_2027/materials/Guide3-slides.pdf) · [Code](editions/2026_2027/materials/guide3.zip) · [Solutions (Part I)](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQD6LsfZuzspSpw1NymL8bdVAdhI-sfEjxI-mziNNRwmDi8?e=Udtd61) ]| B1; B4; B5 |
 | 7 | 09/11/26 | Storage<br>[ [Slides](editions/2026_2027/materials/7%20-%20Storage.pdf) ] | Lab 3: Kubernetes (cont.) [ [Solutions (Part II)](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQCPBlFRhPfHR5iaVsGI9KgPAYC-s-LIkkbR0Cvd_72Plps?e=QtHHoC) ]| P4; P5; P6 |
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
-| 9 | 23/11/26 | Monitoring | Lab 4: Monitoring | B6; P7; P8 |
+| 9 | 23/11/26 | Monitoring<br>[ [Slides](editions/2026_2027/materials/8%20-%20Monitoring.pdf) ] | Lab 4: Monitoring | B6; P7; P8 |
 | 10 | 30/11/26 | Benchmarking | Lab 5: Benchmarking | B6; P9; P10 |
 | 11 | 07/12/26 | Q&A | Q&A / Project | |
 
