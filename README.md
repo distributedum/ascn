@@ -61,7 +61,7 @@ The grade has two components:
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
 | 9 | 23/11/26 | Monitoring<br>[ [Slides](editions/2026_2027/materials/8%20-%20Monitoring.pdf) ] | Lab 4: Monitoring <br> [ [Guide](editions/2026_2027/materials/Guide4.pdf) · [Slides](editions/2026_2027/materials/Guide4-slides.pdf) · [Code](editions/2026_2027/materials/guide4.zip)] | B6; P7; P8 |
 | 10 | 30/11/26 | Benchmarking<br>[ [Slides](editions/2026_2027/materials/9%20-%20Benchmarking.pdf) ] | Lab 5: Benchmarking | B6; P9; P10 |
-| 11 | 07/12/26 | Q&A | Q&A / Project | |
+| 11 | 07/12/26 | Q&A<br>[ [Examples of exams](https://uminho365-my.sharepoint.com/:f:/g/personal/d12729_uminho_pt/IgB7NzGduzZTSYZ-U6LCTlk-ASqRn62YwFuj3tfympUCfi0?e=2GXUjV) ] | Q&A / Project | |
 
 ## Bibliography
 
