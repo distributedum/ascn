@@ -60,7 +60,7 @@ The grade has two components:
 | 7 | 09/11/26 | Storage<br>[ [Slides](editions/2026_2027/materials/7%20-%20Storage.pdf) ] | Lab 3: Kubernetes (cont.) [ [Solutions (Part II)](https://uminho365-my.sharepoint.com/:u:/g/personal/d12729_uminho_pt/IQCPBlFRhPfHR5iaVsGI9KgPAYC-s-LIkkbR0Cvd_72Plps?e=QtHHoC) ]| P4; P5; P6 |
 | 8 | 16/11/26 | Storage (cont.) | Q&A / Project | P4; P5; P6 |
 | 9 | 23/11/26 | Monitoring<br>[ [Slides](editions/2026_2027/materials/8%20-%20Monitoring.pdf) ] | Lab 4: Monitoring <br> [ [Guide](editions/2026_2027/materials/Guide4.pdf) · [Slides](editions/2026_2027/materials/Guide4-slides.pdf) · [Code](editions/2026_2027/materials/guide4.zip)] | B6; P7; P8 |
-| 10 | 30/11/26 | Benchmarking<br>[ [Slides](editions/2026_2027/materials/8%20-%20Benchmarking.pdf) ] | Lab 5: Benchmarking | B6; P9; P10 |
+| 10 | 30/11/26 | Benchmarking<br>[ [Slides](editions/2026_2027/materials/9%20-%20Benchmarking.pdf) ] | Lab 5: Benchmarking | B6; P9; P10 |
 | 11 | 07/12/26 | Q&A | Q&A / Project | |
 
 ## Bibliography
